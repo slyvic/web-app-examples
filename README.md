@@ -1,3 +1,3 @@
-# PWA Examples
+# PWAのWebアプリ
 
-Examples for progressive web apps.
+「さまざまなPWAのWebアプリを開発練習として作成してきました。」
